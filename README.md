@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository contains scripts related to the  and codes to produce figures in the manuscript. 
+This repository contains scripts for analyzing single-cell RNA-seq data presented in the manuscript. 
 
 ## 🗂️ Repository Structure
 
