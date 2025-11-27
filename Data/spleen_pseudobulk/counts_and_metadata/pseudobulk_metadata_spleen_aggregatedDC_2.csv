@@ -1,0 +1,17 @@
+,condition,wt/ko,pathogenicity,replicate
+wt_naive_0,wtnaive,wt,naive,0
+wt_naive_1,wtnaive,wt,naive,1
+wt_naive_2,wtnaive,wt,naive,2
+wt_naive_3,wtnaive,wt,naive,3
+ko_naive_0,konaive,ko,naive,0
+ko_naive_1,konaive,ko,naive,1
+ko_naive_2,konaive,ko,naive,2
+ko_naive_3,konaive,ko,naive,3
+wt_pathogenic_0,wtpathogenic,wt,pathogenic,0
+wt_pathogenic_1,wtpathogenic,wt,pathogenic,1
+wt_pathogenic_2,wtpathogenic,wt,pathogenic,2
+wt_pathogenic_3,wtpathogenic,wt,pathogenic,3
+ko_pathogenic_0,kopathogenic,ko,pathogenic,0
+ko_pathogenic_1,kopathogenic,ko,pathogenic,1
+ko_pathogenic_2,kopathogenic,ko,pathogenic,2
+ko_pathogenic_3,kopathogenic,ko,pathogenic,3

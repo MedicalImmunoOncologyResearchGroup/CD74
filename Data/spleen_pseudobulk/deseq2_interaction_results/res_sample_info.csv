@@ -1,0 +1,17 @@
+"","condition","wt.ko","pathogenicity","replicate","genotype","sizeFactor"
+"wt_naive_0","wtnaive","wt","naive",0,"wt",0.4681490214338
+"wt_naive_1","wtnaive","wt","naive",1,"wt",0.650376615324223
+"wt_naive_2","wtnaive","wt","naive",2,"wt",0.607644677795583
+"wt_naive_3","wtnaive","wt","naive",3,"wt",0.580331278432029
+"ko_naive_0","konaive","ko","naive",0,"ko",0.518071314481858
+"ko_naive_1","konaive","ko","naive",1,"ko",0.533210665695201
+"ko_naive_2","konaive","ko","naive",2,"ko",0.602955448773918
+"ko_naive_3","konaive","ko","naive",3,"ko",0.478170238727045
+"wt_pathogenic_0","wtpathogenic","wt","pathogenic",0,"wt",2.10678026334462
+"wt_pathogenic_1","wtpathogenic","wt","pathogenic",1,"wt",2.34678666751109
+"wt_pathogenic_2","wtpathogenic","wt","pathogenic",2,"wt",2.45087617340023
+"wt_pathogenic_3","wtpathogenic","wt","pathogenic",3,"wt",2.53669146587682
+"ko_pathogenic_0","kopathogenic","ko","pathogenic",0,"ko",1.47923085376396
+"ko_pathogenic_1","kopathogenic","ko","pathogenic",1,"ko",1.49736061881355
+"ko_pathogenic_2","kopathogenic","ko","pathogenic",2,"ko",1.4235428168003
+"ko_pathogenic_3","kopathogenic","ko","pathogenic",3,"ko",1.55666985017822
