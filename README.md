@@ -70,8 +70,8 @@ If you use this code or data, please cite:
 
 ## 📫 Contact
 
-* **Principal Investigator:** Carlos Rogerio de Figueiredo (rogerio.defigueiredo@utu.fi)
 * **Lead Author:** Eleftheria Maranou (eleftheria.maranou@utu.fi)
+* **Principal Investigator:** Carlos Rogerio de Figueiredo (rogerio.defigueiredo@utu.fi)
 
 ---
 *Repository maintained by Otto Pulkkinen*
