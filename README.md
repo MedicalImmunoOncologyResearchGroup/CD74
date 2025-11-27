@@ -1,6 +1,6 @@
 # 🧬 CD74
 
-[![DOI](https://zenodo.org/badge/DOI/your-doi-here.svg)](https://doi.org/your-doi-here)
+[![DOI](https://zenodo.org/badge/DOI/doi-here.svg)](https://doi.org/doi-here)
 
 > **Paper Citation:** Maranou et al. (2026). , *Journal Name*. DOI: [link]
 
@@ -63,7 +63,7 @@ If you use this code or data, please cite:
   author={E. Maranou, G. Park, P. Weinzettl, J. Alanko, O. Pulkkinen, S. E. Coupland,, M. Salmi, C.R. Figueiredo},
   journal={Journal Name},
   year={2025},
-  doi={your-doi}
+  doi={doi-will-be-here}
 }
 ```
 
