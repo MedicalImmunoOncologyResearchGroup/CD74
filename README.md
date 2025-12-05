@@ -35,10 +35,10 @@ Jupyter notebooks were tested with Python version 3.10.12.
 
 ## 📊 Analysis Workflow
 
-1. **R Codes** (`R/`)
+1. **R Codes** (R/)
    - A script for DEA with interactions, using DESeq2 
 
-2. **Jupyter Notebooks** (`Jupyter/`)
+2. **Jupyter Notebooks** (Jupyter/)
    - Preprocessing, QC and integration of scRNA-seq data
    - Annotation of cell types 
    - Evaluation of gene expression in cell types
